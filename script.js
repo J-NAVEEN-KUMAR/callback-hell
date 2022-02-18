@@ -47,7 +47,7 @@ setTimeout(() => {
                     setTimeout(() => {
                       confetti.start();
                       setInterval(() => confetti.stop(), 2000);
-                      display.innerText = "Happy Republic Day";
+                      display.innerText = "Happy Independance Day";
                     }, 1000);
                   }, 1000);
                 }, 1000);
